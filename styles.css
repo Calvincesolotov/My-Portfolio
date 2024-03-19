@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+header {
+  padding: 2px;
+  background-color: aquamarine;
+  color: #fff;
+}
+/* .nav-bar {
+  display: flex;
+  gap: 50px;
+  justify-content: center;
+  text-decoration: none;
+ 
+} */
+#nav-list {
+  text-decoration: none;
+}
